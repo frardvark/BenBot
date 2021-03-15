@@ -1,0 +1,14 @@
+{
+    "name": "BenShapiro",
+    "version": "1.0.0",
+    "description": "Deletes Ben Shapiro videos",
+    "main": "bot.js",
+    "author": "Julian Showen",
+    "dependencies": {
+        "ajax": "0.0.4",
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "jquery": "^3.3.1",
+        "jsdom": "^13.2.0",
+        "winston": "^3.2.1"
+    }
+}
